@@ -39,7 +39,7 @@ go run main.go
 # Author
  
 * Hayase Taiki
-* Twitter : https://twitter.com/y4asse
+* Twitter : https://twitter.com/y4isse
  
 # License
  
